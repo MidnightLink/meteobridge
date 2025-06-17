@@ -38,7 +38,7 @@ If you want to have a *Weather Entity* that combines your local realtime weather
 ## Installation
 
 ### HACS Installation
-This Integration is part of the default HACS store, so search for *Meteobridge Dalogger* in HACS.
+This Integration is part of the default HACS store, so search for *Meteobridge Datalogger* in HACS.
 
 ### Manual Installation
 
